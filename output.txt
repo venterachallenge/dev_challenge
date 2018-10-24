@@ -1,0 +1,4 @@
+total revenue of sales: $7536
+vendor with the most revenue: partyco
+number of hats sold: 115
+ID of customer that bought the most ice: f6c498fc-f633-40f6-93fe-bf11814d4385
